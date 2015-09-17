@@ -46,7 +46,7 @@ myMixer.linkChannelToOutput(myOutput, 0);
 // now you could...
 myOutput.update();
 var color = myOutput.getColor();
-´´´
+```
 
 ## Please note...
 ...that this is more of a concept than a production-ready library. This is not meant to be used in real applications!
